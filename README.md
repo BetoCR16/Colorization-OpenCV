@@ -13,3 +13,9 @@ Los módulos necesarios son:
 - Tensorflow
 - OpenCV
 - Numpy
+
+## Referencias consultadas
+- [Understanding convolutions for deep learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+- [Colorizing b/w photos with neural networks](https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/)
+- [Color conversions](https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)
+- [Colorful Image Colorization](https://arxiv.org/abs/1603.08511) 
